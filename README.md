@@ -1,4 +1,4 @@
-# MERN Product Manager
+# MERN Beginner Product App
 
 A side project built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to add or delete products.
 
